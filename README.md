@@ -70,7 +70,7 @@ All product names, logos, and trademarks belong to their respective owners.
 
 For support, feedback, or collaboration:
 
-📧 support@getpaint3d.com
+📧 paint3dapp@gmail.com
 
 ---
 
