@@ -1,14 +1,14 @@
 # 🎨 GetPaint3D – Official Project Repository
 
-Welcome to the official GitHub repository for **GetPaint3D.com**, a platform dedicated to providing safe access to the original Microsoft Paint 3D software, along with tutorials, guides, and helpful resources.
+Welcome to the official GitHub repository for **GetPaint3D.com**, an independent platform dedicated to providing safe access to the original Microsoft Paint 3D software, along with tutorials, guides, and creative resources.
 
 ---
 
 ## 🌟 About This Project
 
-GetPaint3D.com is an independent digital platform created to help users download and use **Paint 3D** after Microsoft officially discontinued it from the Microsoft Store.
+GetPaint3D.com is a digital platform created to help users download and use **Paint 3D** after Microsoft officially discontinued it from the Microsoft Store.
 
-We focus on providing:
+We focus on delivering:
 
 - ✅ Safe & clean Paint 3D installers  
 - 📘 Step-by-step installation guides  
@@ -36,6 +36,20 @@ Our mission is to keep valuable creative software accessible, secure, and easy t
 
 ---
 
+## 🔗 Connect With Us
+
+- 📺 YouTube: https://www.youtube.com/@MS-Paint3D  
+- 📸 Instagram: https://www.instagram.com/paint3dapp/  
+- 🐦 X (Twitter): https://x.com/3d_paint39381  
+- 🎨 Behance: https://www.behance.net/paint3dfree  
+- 💼 LinkedIn: https://www.linkedin.com/in/paint-3d-9716753b1  
+- 📌 Pinterest: https://pin.it/6KN1DSdag  
+- 🎥 Vimeo: https://vimeo.com/paint3d  
+- 📘 Facebook: https://www.facebook.com/people/Paint-3D/61587856455771/  
+- 🏢 Crunchbase: https://www.crunchbase.com/organization/paint-3d-f521  
+
+---
+
 ## 📚 Resources
 
 - Paint 3D Tutorials  
@@ -56,7 +70,7 @@ All product names, logos, and trademarks belong to their respective owners.
 
 For support, feedback, or collaboration:
 
-📧 paint3dapp@gmail.com
+📧 support@getpaint3d.com
 
 ---
 
